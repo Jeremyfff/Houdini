@@ -42,7 +42,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
-
+*.zip
+*.rar
 **/Unity
+**/unity
 **/backup
 backup/**
