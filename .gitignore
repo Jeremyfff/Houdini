@@ -44,7 +44,5 @@ sysinfo.txt
 
 *.zip
 *.rar
-**/Unity
-**/unity
-**/backup
-backup/**
+[Uu]nity
+[Bb]ackup/
