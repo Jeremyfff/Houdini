@@ -44,5 +44,10 @@ sysinfo.txt
 
 *.zip
 *.rar
-[Uu]nity
+
+
+*.sc
+
+
+[Uu]nity/
 [Bb]ackup/
